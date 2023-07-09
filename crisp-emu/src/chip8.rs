@@ -1,4 +1,4 @@
-const COLS: usize = 664;
+const COLS: usize = 64;
 const ROWS: usize = 32;
 const V_SIZE: usize = 16;
 const STACK_SIZE: usize = 512;
